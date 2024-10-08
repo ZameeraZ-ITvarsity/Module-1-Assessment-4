@@ -1,0 +1,22 @@
+th{
+    font-weight:800;
+    background-color:#800000;
+    color:#ffffff;   
+}
+  table{
+    font-family: fantasy
+    border - collapse: collapse;
+    border-width: 5px;
+    border-style: solid;
+    border-color:#D2691E;
+    text-align: center;
+    }
+tr:hover {
+    background-color:#F5DEB3; 
+}
+
+h4   {
+color:#800000;
+padding-right: 50px;
+padding-top: 2px;
+}
